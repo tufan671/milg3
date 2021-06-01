@@ -361,4 +361,4 @@ process.on("uncaughtExpection", function (err) {
 
 //-----------------------------------SUNUCU KORUMA--------------------------------\\
 
-client.login(process.env.token);
+client.login(guard.js.token);
