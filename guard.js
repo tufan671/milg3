@@ -19,7 +19,7 @@ const strigabotkoruma = 'LOG ID' // RAPOR VERMESİ İÇİN LOG ID
 const botroles = ["", "", "", "", "", ""]; // BOT ROLLERI
 const arr = ["ADMINISTRATOR", "MANAGE_CHANNELS", "MANAGE_GUILD", "KICK_MEMBERS", "BAN_MEMBERS", "MANAGE_ROLES", "MANAGE_WEBHOOKS", "MANAGE_NICKNAMES"];
 
-client.token = "";
+client.token = "ODE5OTYxMzE4NDA3Nzk4ODA0.YEuOfA.CzxfqFhprWfwogRVUseT8FMOdZA";
 
 client.on("ready", async () => {
 dokunma.push(client.user.id);
